@@ -5,12 +5,14 @@
 
 
 1.modes:
+
 Getting to the predetermined article from some article: Checkpoint system (x->y->z->t), binary system (a-b, c-d, e-f)
 Aquiring as many article types as possible eg cities, states...
 Hyperlink fill in after running through some articles
 
 
 2.features:
+
 Every match some articles (eg cities, states, elements, animals...) or metadata  can get points towards end points?, power ups or handicaps for other players
 
 one+ players, also leaderboards for maybe daily single player fight(ie spelunky)
